@@ -1,0 +1,30 @@
+
+# SDK 5.22.0
+
+- Add `AddSettingsChangeListener` and `RemoveSettingsChangeListener` method to Game module
+- Add `muteAudio` property to game settings
+
+# Custom build 1.3.0
+
+- Toggle "Runs on mobile web". This will skip generating some files required for mobile, reducing the build time.
+
+# SDK 5.21.0
+
+- Add leaderboard score submission
+
+# SDK 5.20.0
+
+- Add custom build feature
+- Add async versions for methods with callbacks
+
+# SDK 5.19.0
+
+- Show/hide cursor when adblock popup is opened/closed
+
+# SDK 5.18.0
+
+- Add `locale` to SystemInfo
+
+# SDK 5.17.0
+
+- Add `applicationType` to SystemInfo
