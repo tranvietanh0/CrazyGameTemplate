@@ -1,3 +1,6 @@
 [submodule "CrazyGameTemplate/Assets/TheOneStudio/CrazyGame"]
 	path = CrazyGameTemplate/Assets/TheOneStudio/CrazyGame
 	url = git@github.com:The1Studio/TheOne.WebGL.CrazyGame.git
+[submodule "CrazyGameTemplate/Assets/TheOneStudio/Core"]
+	path = CrazyGameTemplate/Assets/TheOneStudio/Core
+	url = git@github.com:The1Studio/TheOne.WebGL.CrazyGame.Core.git
